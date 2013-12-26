@@ -20,7 +20,8 @@ iiiii
 ppppdddd
 ooooooo
 dddddddd
-
+kernal
+test
 
 pppppp
 ddddd
