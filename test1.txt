@@ -10,7 +10,7 @@ test3
 ddd
 
 dddd
-view 
+view ddd
 ddd
 pppp
 
