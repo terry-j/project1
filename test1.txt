@@ -1,4 +1,6 @@
 add new fix new bug
+
+bug2
 test1
 
 test2
